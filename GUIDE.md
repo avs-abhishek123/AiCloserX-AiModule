@@ -605,3 +605,10 @@ Explanation of Structure
 ---
 
         This defines the data model for customers. For this example, I'm assuming you are using SQLAlchemy as the ORM (Object Relational Mapper) with Pydantic for request validation. The code will include a customer model, assuming relational database schema like PostgreSQL or MySQL. If you are using MongoDB, let me know, and I'll adapt the model accordingly.
+
+
+
+----
+# Copy files to local
+
+scp -i "C:\Users\MSI\.ssh\sairesearch.pem" -r ubuntu@ec2-43-204-25-93.ap-south-1.compute.amazonaws.com:/home/ubuntu/sai-research-test C:\Users\MSI\Documents\
