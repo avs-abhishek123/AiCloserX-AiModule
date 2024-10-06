@@ -1,6 +1,6 @@
 # AiCloserX™
 
-![AiCloserX™ Logo](aicloserx_frontend/assets/images/logo/landscape_logo.png)
+![AiCloserX™ Logo](app/landscape_logo.png)
 
 ---
 
