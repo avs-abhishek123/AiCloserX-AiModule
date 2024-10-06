@@ -45,12 +45,11 @@ This repository is the property of AiCloserX™ (ACX). All content in this repos
 This project is a conversational AI-powered humanoid agent designed to revolutionize insurance accessibility, enhance customer satisfaction, and streamline insurance processes. The application integrates Google Cloud's text-to-speech and speech-to-text services, as well as OpenAI's conversational AI.
 
 ---
+## Demo Video
 
-<h2>Demo Video</h2>
-<video width="640" height="480" controls>
-  <source src="app/AiCloserXinsureBuddy.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Click the image below to watch the demo video:
+
+[![Watch the demo video](https://via.placeholder.com/800x400.png?text=Click+here+to+watch+the+video)](https://drive.google.com/file/d/FILE_ID/preview)
 
 ---
 
