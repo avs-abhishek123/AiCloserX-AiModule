@@ -48,7 +48,7 @@ This project is a conversational AI-powered humanoid agent designed to revolutio
 
 <h2>Demo Video</h2>
 <video width="640" height="480" controls>
-  <source src="https://github.com/avs-abhishek123/AiCloserX-AiModule/blob/main/app/AiCloserXinsureBuddy.mp4" type="video/mp4">
+  <source src="app/AiCloserXinsureBuddy.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
