@@ -34,3 +34,19 @@ This repository is the property of AiCloserX™ (ACX). All content in this repos
 ---
 
 **© AiCloserX™ (ACX) Proprietary and Trade Secret**
+
+
+
+---
+
+
+# Insurance AI-Powered Customer Assistant
+
+This project is a conversational AI-powered humanoid agent designed to revolutionize insurance accessibility, enhance customer satisfaction, and streamline insurance processes. The application integrates Google Cloud's text-to-speech and speech-to-text services, as well as OpenAI's conversational AI.
+
+## Features
+
+- **24/7 Support**: Provides real-time, personalized support via voice, video, or chat.
+- **AI-Powered Form Filling**: Automates the completion of insurance forms to reduce errors and improve claims acceptance rates.
+- **Financial Literacy**: Breaks down complex insurance terms into understandable language.
+- **Voice-Activated Assistance**: Supports voice input and output for a hands-free user experience.
