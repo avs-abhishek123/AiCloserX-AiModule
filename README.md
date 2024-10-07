@@ -49,7 +49,7 @@ This project is a conversational AI-powered humanoid agent designed to revolutio
 
 Click the image below to watch the demo video:
 
-[![Watch the demo video](https://github.com/avs-abhishek123/AiCloserX-AiModule/blob/main/app/Untitled%20design%20(11).png)](https://drive.google.com/file/d/1EYyH2JymG2nlPTtl82Wa8dI6di7RAu2r/view?usp=sharing)
+[![Watch the demo video](https://github.com/avs-abhishek123/AiCloserX-AiModule/blob/main/app/AiHumansX_AiCloserX.png)](https://drive.google.com/file/d/1EYyH2JymG2nlPTtl82Wa8dI6di7RAu2r/view?usp=sharing)
 
 ---
 
